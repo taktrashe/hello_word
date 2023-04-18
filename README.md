@@ -1,4 +1,4 @@
-# hellow_word
-just create hellow_world repository
+# hello_word
+just create hello_world repository
 
 just add some new text
